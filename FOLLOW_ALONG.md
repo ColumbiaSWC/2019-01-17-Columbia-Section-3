@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Follow Along
-permalink: follor-along.html
+permalink: follow-along.html
 ---
