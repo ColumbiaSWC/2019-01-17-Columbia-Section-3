@@ -1,7 +1,7 @@
 ---
 layout: workshop                   
 carpentry: "swc"                    
-venue: "Columbia University<br>👑🐍"        
+venue: "Columbia University<br>👑💻🐍"        
 address: "Butler Library, 535 W 114th St, New York, NY 10027"          
 country: "us"                      
 language: "en"                      
