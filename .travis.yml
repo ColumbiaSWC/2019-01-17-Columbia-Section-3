@@ -1,5 +1,7 @@
 language: ruby
 rvm: 2.5
-sudo: false
+sudo: required
+before_install:
+  - sudo apt-get install libcurl4-openssl-dev
 script:
   - bundle exec rake test
