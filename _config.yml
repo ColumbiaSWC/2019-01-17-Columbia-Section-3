@@ -12,6 +12,7 @@ carpentry: "swc"
 # Overall title for pages.
 title: "Columbia University FRC Bootcamp Python Module 3 🐍"
 baseurl: "/2019-01-swc-3"
+github.url: "http://marii.info/2019-01-17-swc-3/"
 
 
 #------------------------------------------------------------
