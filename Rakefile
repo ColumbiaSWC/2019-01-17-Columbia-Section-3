@@ -11,7 +11,7 @@ task :test do
 
   puts 'Testing links and html tags...'.green
 
-  FileUtils.rm_r site_dir
+  FileUtils.rm_rf site_dir
   `bundle exec jekyll build -d #{target_dir}`
   HTMLProofer.check_directory(site_dir, { assume_extension: true }).run
 end
