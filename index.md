@@ -23,9 +23,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #3 (Python). Our Python 3 Bootcamp is just the third group; it is not more advanced (i.e. level 3) and the fact that we'll be working with [Python version 3](https://www.python.org/) is just a coincidence. 
 
-__And while Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goals is to get you up to speed for applying computational methods in service of your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python to develop fundamental and widely applicable skillsets.
+__And while Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
 
-Below you'll find the schedule, syllabus, and setup instructions to go over __before the bootcamp begins__, as well as more information about [Software Carpentries](https://software-carpentry.org/), the group behind the lessons we'll use.
+Below you'll find the schedule, syllabus, and setup instructions to go over __before the bootcamp begins__, as well as more information about the [Software Carpentries](https://software-carpentry.org/) curriculum.
 
 <br>
 
