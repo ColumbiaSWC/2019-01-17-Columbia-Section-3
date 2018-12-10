@@ -10,8 +10,8 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
-baseurl: '2019-01-swc-3'
+title: "Columbia University FRC Bootcamp Python Module 3 🐍"
+baseurl: "/2019-01-swc-3"
 
 
 #------------------------------------------------------------
