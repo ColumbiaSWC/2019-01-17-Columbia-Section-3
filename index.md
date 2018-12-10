@@ -19,7 +19,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 
 
-## Welcome! 👑💻🐍
+## Welcome!
 
 This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #3 (Python). Our Python 3 Bootcamp is just the third group; it is not more advanced (i.e. level 3) and the fact that we'll be working with [Python version 3](https://www.python.org/) is just a coincidence. 
 
