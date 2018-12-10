@@ -6,12 +6,12 @@ address: "Butler Library, 535 W 114th St, New York, NY 10027"
 country: "us"                      
 language: "en"                      
 latlng: ""                          # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "FIXME"                  # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"                  # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME                    # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME                      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Jan 17-18, 2019"                  
+humantime: "9:00 am - 4:30 pm"                  
+startdate: 2019-01-17
+enddate: 2019-01-18
 instructor: ["Marii Nyröp", "Teddy Thomas"]
-helper: ["FIXME"]
+helpers: []
 email: ["rcfoundations@columbia.edu"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
