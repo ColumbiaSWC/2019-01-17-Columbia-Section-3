@@ -1,7 +1,7 @@
 ---
 layout: workshop                   
 carpentry: "swc"                    
-venue: "Columbia University, Butler Library, Room TBD"        
+venue: "Columbia University, Computing Fundamentals with Python"        
 address: "Butler Library, 535 W 114th St, New York, NY 10027"          
 country: "us"                      
 language: "en"                      
@@ -21,7 +21,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 ## Welcome!
 
-This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #3 (Python). Our Python 3 Bootcamp is just the third group; it is not more advanced (i.e. level 3) and the fact that we'll be working with [Python version 3](https://www.python.org/) is just a coincidence. 
+This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #3 (Computing Fundamentals with Python). Our Python 3 Bootcamp is just the third group; it is not more advanced (i.e. level 3) and the fact that we'll be working with [Python version 3](https://www.python.org/) is just a coincidence. 
 
 __And while Python is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to Python in order to develop fundamental and widely applicable skillsets.
 
