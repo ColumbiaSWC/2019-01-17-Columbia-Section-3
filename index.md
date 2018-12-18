@@ -1,17 +1,17 @@
 ---
 layout: workshop                   
 carpentry: "swc"                    
-venue: "Columbia University"        
+venue: "Columbia University, Butler Library, Room TBD"        
 address: "Butler Library, 535 W 114th St, New York, NY 10027"          
 country: "us"                      
 language: "en"                      
 latlng: "40.806367, -73.963191"
 humandate: "Jan 17-18, 2019"                  
-humantime: "9:00 am - 4:30 pm"                  
+humantime: "9:00am - 5:00pm"                  
 startdate: 2019-01-17
 enddate: 2019-01-18
 instructor: ["Marii Nyröp", "Teddy Thomas"]
-helpers: []
+helper: [tbd]
 email: ["rcfoundations@columbia.edu"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
